@@ -4,13 +4,13 @@ Hi 👋 My name is Leni Neto
 Hardware and Software Engineer
 ------------------------------
 
-Hardware & Software Engineer with decades of coding experience. Lead Engineer behind OnePuttPro (Raspberry Pico). Backend specialist (PHP, NodeJS) with recent work in MicroPython and React Native. Seasoned Sys Admin with expertise in Linux, cloud infrastructure, and web hosting. WordPress/WooCommerce veteran. Former developer at UK digital agencies and payment processor. Started coding in childhood — still building and learning with the same passion today.
+Hardware & Software Engineer with decades of coding experience. Lead Engineer behind OnePuttPro (Raspberry Pico). Backend specialist (PHP, NodeJS) with recent work in MicroPython, C++ and React Native. Seasoned Sys Admin with expertise in Linux, cloud infrastructure, and web hosting. WordPress/WooCommerce veteran. Former developer at UK digital agencies and payment processor. Started coding in childhood — still building and learning with the same passion today.
 
 * 🌍  I'm based in Gloucester, UK
 * 🖥️  See my portfolio at [LeniNeto.com](http://lenineto.com)
 * ✉️  You can contact me at [leni@lenineto.com](mailto:leni@lenineto.com)
 * 🚀  I'm currently working on [OnePuttPro](http://oneputtpro.com)
-* 🧠  I'm learning React Native, Expo
+* 🧠  I'm always lerning something new (Playing with PayloadCMS now)
 * 🤝  I'm open to collaborating on Open to collaborating on innovative hardware/software integration projects, backend optimization challenges, IoT solutions, or specialized systems that require both technical depth and decades of real-world experience.
 * ⚡  I've survived everything from punch cards to cloud computing, and I'm still debugging with a smile.
 
